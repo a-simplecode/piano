@@ -1,0 +1,114 @@
+[
+  {
+    "keyBoard": "1",
+    "value": "C2"
+  },
+  {
+    "keyBoard": "2",
+    "value": "D2"
+  },
+  {
+    "keyBoard": "3",
+    "value": "E2"
+  },
+  {
+    "keyBoard": "4",
+    "value": "F2"
+  },
+  {
+    "keyBoard": "5",
+    "value": "G2"
+  },
+  {
+    "keyBoard": "6",
+    "value": "A2"
+  },
+  {
+    "keyBoard": "7",
+    "value": "B2"
+  },
+  {
+    "keyBoard": "q",
+    "value": "C3"
+  },
+  {
+    "keyBoard": "w",
+    "value": "D3"
+  },
+  {
+    "keyBoard": "e",
+    "value": "E3"
+  },
+  {
+    "keyBoard": "r",
+    "value": "F3"
+  },
+  {
+    "keyBoard": "t",
+    "value": "G3"
+  },
+  {
+    "keyBoard": "y",
+    "value": "A3"
+  },
+  {
+    "keyBoard": "u",
+    "value": "B3"
+  },
+  {
+    "keyBoard": "a",
+    "value": "C4"
+  },
+  {
+    "keyBoard": "s",
+    "value": "D4"
+  },
+  {
+    "keyBoard": "d",
+    "value": "E4"
+  },
+  {
+    "keyBoard": "f",
+    "value": "F4"
+  },
+  {
+    "keyBoard": "g",
+    "value": "G4"
+  },
+  {
+    "keyBoard": "h",
+    "value": "A4"
+  },
+  {
+    "keyBoard": "j",
+    "value": "B4"
+  },
+  {
+    "keyBoard": "z",
+    "value": "C5"
+  },
+  {
+    "keyBoard": "x",
+    "value": "D5"
+  },
+  {
+    "keyBoard": "c",
+    "value": "E5"
+  },
+  {
+    "keyBoard": "v",
+    "value": "F5"
+  },
+  {
+    "keyBoard": "b",
+    "value": "G5"
+  },
+  {
+    "keyBoard": "n",
+    "value": "A5"
+  },
+  {
+    "keyBoard": "m",
+    "value": "B5"
+  }
+]
